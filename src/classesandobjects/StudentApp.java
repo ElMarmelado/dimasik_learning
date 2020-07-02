@@ -6,6 +6,7 @@ import java.text.DecimalFormat;
 public class StudentApp {
 
     public static void main(String[] args) {
+        // halo
         Student st1 = new Student();
         st1.studentId = 1;
         st1.name = "Гошка";
